@@ -17,10 +17,7 @@
     4. Print the contents of all three files.
     
     
-Q2. Note:-In this program you have to create three more classes "InvlaidID", "InvalidSalary", "InvalidJoin", 
-    all three classes will inherit Exception class. (For user define Exceptions) 
-     
-    Create an abstract class called "Person" with a member varaible person_name (String), id(int).
+Q2. Create an abstract class called "Person" with a member varaible person_name (String), id(int).
     abstract void setDetails(String name, int id,double salary, int joining_year).
     Define parameterized constructor to initialize the instance variable of Person.
 
@@ -44,4 +41,7 @@ Q2. Note:-In this program you have to create three more classes "InvlaidID", "In
                   - if number of years are greater then 10 update salart by incrementing with 15% of previous salary .
                                           
       Create EmployeeMain containg a main method and fully test your class definations. 
+      
+      Note:-In this program you have to create three more classes "InvlaidID", "InvalidSalary", "InvalidJoin", 
+    all three classes will inherit Exception class. (For user define Exceptions) 
 
