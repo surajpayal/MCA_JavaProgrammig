@@ -15,13 +15,17 @@
 4- Your name and roll number should be mention on top of the answer
                                                   
  Q1. Write a java program to, create three files one.txt, two.txt and three.txt  (FileWriter class)
-    1. Write 5 lines in one.txt using PrintWriter class
-    2. Write 5 lines in two.txt using PrintWriter class
-    3. Write the content into three.txt in the following manner.
+   
+   1. Write 5 lines in one.txt using PrintWriter class
+    
+   2. Write 5 lines in two.txt using PrintWriter class
+    
+   3. Write the content into three.txt in the following manner.
        Read one line from one.txt and write into three.txt
        Read one line from two.txt and write into three.txt 
        Repeat the above steps till the content is available in both files
-    4. Print the contents of all three files.
+    
+   4. Print the contents of all three files.
     
     
 Q2. Create an abstract class called "Person" with a member varaible person_name (String), id(int).
